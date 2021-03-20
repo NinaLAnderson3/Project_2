@@ -1,0 +1,382 @@
+{
+ "metadata": [
+  {
+   "County": "ATLANTIC",
+   "SummativeScore": 37.06915254,
+   "tax_rate": 2.823782608695653,
+   "lat": 39.4431,
+   "lng": -74.61701363636367,
+   "crimes": [
+    {
+     "assault": 1626.9000000000005,
+     "auto_theft": 1253.7999999999997,
+     "burglary": 4440.5,
+     "larceny": 20458.6,
+     "murder": 50.4,
+     "rape": 220.5,
+     "robbery": 669.5
+    }
+   ]
+  },
+  {
+   "County": "BERGEN",
+   "SummativeScore": 64.97935065,
+   "tax_rate": 2.295671428571428,
+   "lat": 40.929877049180334,
+   "lng": -74.04464262295082,
+   "crimes": [
+    {
+     "assault": 1599.1000000000001,
+     "auto_theft": 3391.3000000000015,
+     "burglary": 3822.2,
+     "larceny": 133132.19999999998,
+     "murder": 22.499999999999996,
+     "rape": 256.1,
+     "robbery": 566.3
+    }
+   ]
+  },
+  {
+   "County": "BURLINGTON",
+   "SummativeScore": 46.8643,
+   "tax_rate": 2.744750000000001,
+   "lat": 39.98640555555555,
+   "lng": -74.76062222222222,
+   "crimes": [
+    {
+     "assault": 2164.5000000000005,
+     "auto_theft": 1425.1999999999998,
+     "burglary": 3041.7,
+     "larceny": 18722.199999999997,
+     "murder": 29.7,
+     "rape": 369.20000000000005,
+     "robbery": 351.09999999999997
+    }
+   ]
+  },
+  {
+   "County": "CAMDEN",
+   "SummativeScore": 41.72379845,
+   "tax_rate": 3.907270270270269,
+   "lat": 39.8663675,
+   "lng": -75.03034749999998,
+   "crimes": [
+    {
+     "assault": 4614.300000000001,
+     "auto_theft": 2907.7999999999993,
+     "burglary": 7202.800000000001,
+     "larceny": 47147.9,
+     "murder": 52.199999999999996,
+     "rape": 312.9,
+     "robbery": 1594.0000000000005
+    }
+   ]
+  },
+  {
+   "County": "CAPE MAY",
+   "SummativeScore": 38.47136364,
+   "tax_rate": 1.2777500000000002,
+   "lat": 39.05300909090909,
+   "lng": -74.83048636363638,
+   "crimes": [
+    {
+     "assault": 1873.9,
+     "auto_theft": 711.0,
+     "burglary": 5667.099999999999,
+     "larceny": 46227.89999999999,
+     "murder": 0.0,
+     "rape": 210.5,
+     "robbery": 240.3
+    }
+   ]
+  },
+  {
+   "County": "CUMBERLAND",
+   "SummativeScore": 26.44684211,
+   "tax_rate": 3.1654285714285715,
+   "lat": 39.40166,
+   "lng": -75.14281000000003,
+   "crimes": [
+    {
+     "assault": 987.5,
+     "auto_theft": 355.09999999999997,
+     "burglary": 1336.8,
+     "larceny": 5349.599999999999,
+     "murder": 12.7,
+     "rape": 83.4,
+     "robbery": 369.0
+    }
+   ]
+  },
+  {
+   "County": "ESSEX",
+   "SummativeScore": 46.06614973,
+   "tax_rate": 2.9509090909090903,
+   "lat": 40.803672727272726,
+   "lng": -74.23671818181819,
+   "crimes": [
+    {
+     "assault": 1208.8999999999999,
+     "auto_theft": 2988.6000000000004,
+     "burglary": 1821.8,
+     "larceny": 12442.699999999999,
+     "murder": 44.300000000000004,
+     "rape": 160.29999999999998,
+     "robbery": 691.0
+    }
+   ]
+  },
+  {
+   "County": "GLOUCESTER",
+   "SummativeScore": 46.80264706,
+   "tax_rate": 3.516208333333333,
+   "lat": 39.75397368421053,
+   "lng": -75.1498947368421,
+   "crimes": [
+    {
+     "assault": 1374.7,
+     "auto_theft": 1204.1000000000001,
+     "burglary": 3046.2000000000003,
+     "larceny": 17238.8,
+     "murder": 37.6,
+     "rape": 67.0,
+     "robbery": 403.9
+    }
+   ]
+  },
+  {
+   "County": "HUDSON",
+   "SummativeScore": 46.07901961,
+   "tax_rate": 2.074333333333333,
+   "lat": 40.75011,
+   "lng": -74.07581,
+   "crimes": [
+    {
+     "assault": 1030.3,
+     "auto_theft": 924.9000000000001,
+     "burglary": 1031.5,
+     "larceny": 9284.0,
+     "murder": 6.2,
+     "rape": 121.30000000000001,
+     "robbery": 461.0
+    }
+   ]
+  },
+  {
+   "County": "HUNTERDON",
+   "SummativeScore": 58.4345,
+   "tax_rate": 2.679115384615385,
+   "lat": 40.58042727272728,
+   "lng": -74.94019999999998,
+   "crimes": [
+    {
+     "assault": 189.7,
+     "auto_theft": 322.5,
+     "burglary": 543.5000000000001,
+     "larceny": 3868.5000000000005,
+     "murder": 0.0,
+     "rape": 6.3,
+     "robbery": 3.6
+    }
+   ]
+  },
+  {
+   "County": "MERCER",
+   "SummativeScore": 47.01184211,
+   "tax_rate": 3.0301666666666667,
+   "lat": 40.26576923076925,
+   "lng": -74.67112307692308,
+   "crimes": [
+    {
+     "assault": 1062.8,
+     "auto_theft": 561.5,
+     "burglary": 1036.5,
+     "larceny": 5491.200000000001,
+     "murder": 36.199999999999996,
+     "rape": 140.6,
+     "robbery": 329.30000000000007
+    }
+   ]
+  },
+  {
+   "County": "MIDDLESEX",
+   "SummativeScore": 50.82987179,
+   "tax_rate": 2.5884400000000003,
+   "lat": 40.45995428571429,
+   "lng": -74.39999714285712,
+   "crimes": [
+    {
+     "assault": 1426.7999999999997,
+     "auto_theft": 1041.8,
+     "burglary": 1707.2,
+     "larceny": 13087.300000000001,
+     "murder": 23.7,
+     "rape": 115.5,
+     "robbery": 352.99999999999994
+    }
+   ]
+  },
+  {
+   "County": "MONMOUTH",
+   "SummativeScore": 54.92135135,
+   "tax_rate": 1.8898867924528304,
+   "lat": 40.2856,
+   "lng": -74.10238070175441,
+   "crimes": [
+    {
+     "assault": 2568.4,
+     "auto_theft": 4474.1,
+     "burglary": 5126.299999999999,
+     "larceny": 41677.30000000001,
+     "murder": 6.4,
+     "rape": 546.7,
+     "robbery": 778.9000000000001
+    }
+   ]
+  },
+  {
+   "County": "MORRIS",
+   "SummativeScore": 66.5065625,
+   "tax_rate": 2.3097179487179487,
+   "lat": 40.886119047619054,
+   "lng": -74.5142238095238,
+   "crimes": [
+    {
+     "assault": 879.0999999999998,
+     "auto_theft": 1648.1999999999998,
+     "burglary": 2724.9999999999995,
+     "larceny": 14550.300000000001,
+     "murder": 16.5,
+     "rape": 166.7,
+     "robbery": 204.9
+    }
+   ]
+  },
+  {
+   "County": "OCEAN",
+   "SummativeScore": 42.08938144,
+   "tax_rate": 1.8094545454545456,
+   "lat": 39.89861395348837,
+   "lng": -74.21142790697675,
+   "crimes": [
+    {
+     "assault": 2173.8999999999996,
+     "auto_theft": 3250.7999999999997,
+     "burglary": 3723.5999999999995,
+     "larceny": 29366.9,
+     "murder": 9.899999999999999,
+     "rape": 268.5,
+     "robbery": 572.9000000000001
+    }
+   ]
+  },
+  {
+   "County": "PASSAIC",
+   "SummativeScore": 42.42284553,
+   "tax_rate": 3.1260625000000006,
+   "lat": 40.94945000000001,
+   "lng": -74.21388571428572,
+   "crimes": [
+    {
+     "assault": 1293.1,
+     "auto_theft": 942.0000000000001,
+     "burglary": 1130.1,
+     "larceny": 9301.4,
+     "murder": 15.7,
+     "rape": 80.7,
+     "robbery": 390.3
+    }
+   ]
+  },
+  {
+   "County": "SALEM",
+   "SummativeScore": 41.55772727,
+   "tax_rate": 3.4664000000000006,
+   "lat": 39.620542857142866,
+   "lng": -75.35459999999998,
+   "crimes": [
+    {
+     "assault": 1564.6,
+     "auto_theft": 806.3,
+     "burglary": 2594.8999999999996,
+     "larceny": 6705.4,
+     "murder": 231.9,
+     "rape": 330.09999999999997,
+     "robbery": 672.1999999999999
+    }
+   ]
+  },
+  {
+   "County": "SOMERSET",
+   "SummativeScore": 58.92763889,
+   "tax_rate": 2.338809523809524,
+   "lat": 40.520626470588226,
+   "lng": -74.58056470588234,
+   "crimes": [
+    {
+     "assault": 190.6,
+     "auto_theft": 934.8000000000001,
+     "burglary": 1329.1,
+     "larceny": 9442.7,
+     "murder": 5.2,
+     "rape": 81.6,
+     "robbery": 151.6
+    }
+   ]
+  },
+  {
+   "County": "SUSSEX",
+   "SummativeScore": 48.16216216,
+   "tax_rate": 2.9376249999999997,
+   "lat": 41.094546666666666,
+   "lng": -74.64102666666666,
+   "crimes": [
+    {
+     "assault": 327.1,
+     "auto_theft": 171.9,
+     "burglary": 560.3,
+     "larceny": 2747.8,
+     "murder": 7.1,
+     "rape": 61.7,
+     "robbery": 12.8
+    }
+   ]
+  },
+  {
+   "County": "UNION",
+   "SummativeScore": 53.45118056,
+   "tax_rate": 3.6133809523809526,
+   "lat": 40.657738461538464,
+   "lng": -74.31702307692309,
+   "crimes": [
+    {
+     "assault": 1065.5,
+     "auto_theft": 1945.8,
+     "burglary": 1668.9000000000003,
+     "larceny": 11832.700000000003,
+     "murder": 32.8,
+     "rape": 203.29999999999998,
+     "robbery": 494.6000000000001
+    }
+   ]
+  },
+  {
+   "County": "WARREN",
+   "SummativeScore": 50.62030303,
+   "tax_rate": 3.016227272727273,
+   "lat": 40.79450937499999,
+   "lng": -75.02623125000002,
+   "crimes": [
+    {
+     "assault": 376.1,
+     "auto_theft": 338.50000000000006,
+     "burglary": 1154.6999999999998,
+     "larceny": 9135.1,
+     "murder": 0.0,
+     "rape": 111.0,
+     "robbery": 109.4
+    }
+   ]
+  }
+ ]
+}
